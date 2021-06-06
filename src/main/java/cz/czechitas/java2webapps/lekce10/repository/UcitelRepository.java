@@ -10,4 +10,6 @@ import org.springframework.stereotype.Repository;
  */
 @Repository
 public interface UcitelRepository extends JpaRepository<Ucitel, Integer> {
+
+
 }
